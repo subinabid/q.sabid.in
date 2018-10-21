@@ -1,2 +1,2 @@
-# portfolio
-My Portfolio - work in progress
+# Quiz
+Monthly Quiz program at NTPC Kudgi
